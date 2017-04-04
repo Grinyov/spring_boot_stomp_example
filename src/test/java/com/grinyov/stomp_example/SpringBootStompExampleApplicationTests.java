@@ -12,5 +12,4 @@ public class SpringBootStompExampleApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
