@@ -1,12 +1,12 @@
-package com.grinyov;
+package com.grinyov.stomp_example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootStompExampleApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootStompExampleApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }
